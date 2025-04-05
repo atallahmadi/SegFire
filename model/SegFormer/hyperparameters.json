@@ -1,0 +1,14 @@
+{
+    "MODEL_CHECKPOINT": "nvidia/mit-b2",
+    "NAME": "Segformer",
+    "IMG_SIZE": 256,
+    "BATCH_SIZE": 16,
+    "SEED": 5,
+    "TRAIN_SPLIT": 0.95,
+    "DATA_LIMIT": null,
+    "LR": 0.0001,
+    "LR_ADJ": "None",
+    "EPOCHS": 100,
+    "PATIENCE": 15,
+    "DELTA": 0.01
+}
