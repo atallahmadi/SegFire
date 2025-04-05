@@ -1,7 +1,0 @@
-*.docx
-output/.DS_Store
-*.safetensors
-model/.DS_Store
-/docs
-data/test/images/.DS_Store
-.DS_Store
